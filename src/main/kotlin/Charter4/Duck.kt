@@ -1,4 +1,8 @@
 package Charter4
 
-class Duck {
+class Duck() {
+
+    fun quack() {
+        println("Quack! Quack! Quack!")
+    }
 }

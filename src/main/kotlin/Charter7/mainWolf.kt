@@ -9,13 +9,13 @@ fun main(){
     wolfToString()
 }
 
-fun wolfFalse(){
+fun wolfTrue(){
     val w1 = Wolf()
     val w2 = w1
     println(w1.equals(w2))
 }
 
-fun wolfTrue(){
+fun wolfFalse(){
     val w1 = Wolf()
     val w2 = Wolf()
     println(w1.equals(w2))
