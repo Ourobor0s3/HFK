@@ -16,4 +16,4 @@ fun main(args: Array<String>){
     println(phrase)
 }
 
-// TODO faker(ser pro 69) генерирует фейковые данные, переделать фрейзаматик
+// faker(ser pro 69) генерирует фейковые данные, переделать фрейзаматик
